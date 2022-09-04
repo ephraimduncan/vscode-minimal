@@ -93,7 +93,7 @@
     "editorLink.activeForeground": "#F9FBFC",
     "editor.findMatchBackground": "#323232d5", //<<<<<
     "editor.findMatchHighlightBackground": "#36355377",
-    "editor.findRangeHighlightBackground": "#62409c7c",
+    "editor.findRangeHighlightBackground": "#584f697c",
     "editor.lineHighlightBackground": "#323232",
     "editor.lineHighlightBorder": "#323232",
     "editorWhitespace.foreground": "#dbd6d38c",
@@ -102,7 +102,7 @@
     "editorRuler.foreground": "#DBD6D359",
     "editorCodeLens.foreground": "#613f8390",
     "editorBracketMatch.border": "#2A2A2900",
-    "editorBracketMatch.background": "#5C016E",
+    "editorBracketMatch.background": "#515151",
     "editorHoverWidget.background": "#262b3d",
     "editorHoverWidget.border": "#262b3d",
     "editorOverviewRuler.border": "#2A2A2900",
