@@ -8,7 +8,7 @@ A Nothing Inspired Minimal VSCode Theme
 
 </div>
 
-# Installation
+## Installation
 
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
 1. Search for `Minimal`, choose "Minimal Theme" by **Ephraim Atta-Duncan**
