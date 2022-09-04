@@ -1,0 +1,21 @@
+{
+  "name": "writeathon",
+  "displayName": "writeathon",
+  "description": "A Nothing VSCode Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Writeathon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Writeathon-color-theme.json"
+      }
+    ]
+  }
+}
