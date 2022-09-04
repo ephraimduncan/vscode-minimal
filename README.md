@@ -1,6 +1,6 @@
 <div align="center">
 
-# Palenight Theme
+# Minimal Theme
 A Nothing Inspired Minimal VSCode Theme
 
 
