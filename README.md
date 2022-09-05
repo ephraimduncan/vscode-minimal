@@ -4,7 +4,7 @@
 A Nothing Inspired Minimal VSCode Theme
 
 
-![theme preview](./images/preview.png)
+![theme preview](https://cdn.hashnode.com/res/hashnode/image/upload/v1662331405287/KKQfkJFdw.png?auto=compress,format&format=webp)
 
 </div>
 
@@ -30,7 +30,7 @@ See something strange? Please report [here](https://github.com/dephraiim/vscode-
 
 ## License
 
-This theme is released under the [MIT License](./LICENSE).
+This theme is released under the MIT License.
 
 <!--
 ✨ Designed by **[Ephraim Atta-Duncan](https://astrosaurus.me?utm_source=minimal)** in **[Takoradi, Ghana](https://www.google.com/maps/place/Takoradi)**. Find me on **[Twitter](https://twitter.com/dephraiim)** ✨ -->
